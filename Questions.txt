@@ -1,39 +1,30 @@
 Python program 
-1. Write a Program to check given number is perfect number or not.
-2. Write a Program to check given number is Armstrong number or not.
-3. Write a Program to check given number is prime number or not.
-4. Write a Program to check given number is strong number or not.
-5. Write a Program to check a number is odd or even.
-6. Write a Program to check given number is palindrome number or not.
-8. Write a Program to check given string is palindrome number or not.
 7. Write a Program to solve quadratic equation.
-8.  Write a Program to print Fibonacci series of given range.
-9. Write a Program to get factorial of given number.
+
+
 10. Write a Program for Floyd’s triangle.
 11. Write a Program to print Pascal triangle.
-12. Write a Program to generate multiplication table.
-13. Write a Program to print ASCII value of all characters.
-14. Write a Program to print hello world without using semicolon
-15. Write a Program which produces its own source code as its output
+
+
 WAP  with numbers
 1. Write a Program to reverse any number.
-2. Write a Program to find out sum of digit of given number.
-3. Write a Program to find out power of number.          
+2. Write a Program to find out power of number. 
+3.          
 4. Write a Program to add two numbers without using addition operator.
 5. Write a Program to subtract two numbers without using subtraction operator.
 6. Write a Program to find largest among three numbers using binary minus operator.
- 7. Write a Program to find largest among three numbers using conditional operator
+7. Write a Program to find largest among three numbers using conditional operator
 8. Write a Program to find out generic root of any number.
 9. Write a Program to find out prime factor of given number.
 10. Write a Program to find out NCR factor of given number.
 11. How to convert string to int without using library functions in c
 12. Program in c to print 1 to 100 without using loop
-13. C program for swapping of two numbers
+13. Write a Program for swapping of two numbers
 14. Program to find largest of n numbers in c
-15. Split number into digits in c programming
-16. C program to count number of digits in a number
+15. Split number into digits in Write a Program
+16. Write a Program to count number of digits in a number
 Recursion
-Example of recursion in c programming
+Example of recursion in programming
 L.C.M and H.C.F.
 1.  Write a Program to find out L.C.M. of two numbers.
 2. Write a Program to find out H.C.F. of two numbers.
@@ -56,17 +47,17 @@ Conversion ( Number System )
 10. Write a Program to convert binary number to octal number.
 11. Write a Program to convert binary number to decimal number.
 12. Write a Program to convert binary number to hexadecimal number.
-13. C program for addition of binary numbers . 
-14. C program for multiplication of two binary numbers.
-15. C program fractional binary conversion from decimal.
-16. C program for fractional decimal to binary fraction conversion.
-17. C program to convert decimal number to roman.
-18. C program to convert roman number to decimal number.
-19. C program to convert each digits of a number in words
-20. C program to convert currency or number in word.
+13. Write a Program for addition of binary numbers . 
+14. Write a Program for multiplication of two binary numbers.
+15. Write a Program fractional binary conversion from decimal.
+16. Write a Program for fractional decimal to binary fraction conversion.
+17. Write a Program to convert decimal number to roman.
+18. Write a Program to convert roman number to decimal number.
+19. Write a Program to convert each digits of a number in words
+20. Write a Program to convert currency or number in word.
 
 Conversion ( Unit )
-1. C program for unit conversion.
+1. Write a Program for unit conversion.
 String
 1. Write a Program to convert the string from upper case to lower case.
 2. Write a Program to convert the string from lower case to upper case.
@@ -90,11 +81,11 @@ Matrix
 4. Write a Program to find out sum of diagonal element of a matrix.
 5. Write a Program to find out transport of a matrix.
 6. Write a Program for scalar multiplication of matrix.
-7. C program to find inverse of a matrix
+7. Write a Program to find inverse of a matrix
 8. Lower triangular matrix in c
 9. Upper triangular matrix in c
 10. Strassen's matrix multiplication program in c
-11. C program to find determinant of a matrix
+11. Write a Program to find determinant of a matrix
 
 
 File
@@ -132,7 +123,7 @@ Array
 4. Write a Program which deletes the duplicate element of an array.
 5. Write a Program for delete an element at desired position in an array.
 6. Write a Program for insert an element at desired position in an array.
-7. C program to find largest and smallest number in an array
+7. Write a Program to find largest and smallest number in an array
 Sorting
 1. Write a Program for bubble sort.
 2. Write a Program for insertion sort.
@@ -173,7 +164,7 @@ Area and volume
 12. Write a Program to find the surface area and volume of a cone.
 13. Write a Program to find the volume and surface area of sphere.
 14. Write a Program to find the perimeter of a circle, rectangle and triangle.
-C program with very large numbers
+Write a Program with very large numbers
 1. Write a Program to find factorial of 100 or very large numbers
 2. Write a Program to multiply the two very large number (larger the long int)
 3. Write a Program for division of large number (larger than long int)
@@ -181,7 +172,7 @@ C program with very large numbers
 5. C code for division of large number.
 6. C code for power of large numbers.
 Other
-1. C program for ATM transaction.
+1. Write a Program for ATM transaction.
 2. Write a Program which passes one dimension array to function.
 3. Write a Program which passes two dimension array to function.
 4. Write a Program which takes password from user.
@@ -191,5 +182,5 @@ Other
 8. Write a Program which passes structure to function.
 9. Palindrome in c without using string function
 10. How to get the ASCII value of a character in c
-11. C program to get last two digits of year
-12. C program without main function
+11. Write a Program to get last two digits of year
+12. Write a Program without main function

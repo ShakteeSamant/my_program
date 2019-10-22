@@ -5,7 +5,7 @@ def decimalToBinary(n):
         decimalToBinary(n//2)  
     print(n%2, end=' ')
 
-decimalToBinary(235)
+
 
 
 # Write a Program to convert binary number to decimal number.
@@ -18,6 +18,14 @@ def binaryToDecimal(binary):
         decimal = decimal + bit * pow(2, i) 
         binary = binary//10
         i += 1
-    print(decimal)     
+    return(decimal)     
 
-binaryToDecimal(100) 
+
+
+if __name__ == "__main__":
+    decimalToBinary(235)
+
+
+
+    binaryToDecimal(100) 
+    

@@ -18,7 +18,7 @@ def binaryToDecimal(binary):
         decimal = decimal + bit * pow(2, i) 
         binary = binary//10
         i += 1
-    return(decimal)     
+    print(decimal)     
 
 
 
